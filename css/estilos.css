@@ -42,3 +42,14 @@ text-align: center;
 {
     padding: 1em;
 }
+.footer 
+{
+    
+    background: green;
+    color: white;
+    text-align: center;
+    border: 1px solid #333;
+    border-radius: 5px;
+    margin: 2px;
+    padding: 5px;
+}
